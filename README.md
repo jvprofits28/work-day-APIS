@@ -5,5 +5,4 @@
 
 # descrition
 
-user are able to type current day activities at the moment still working on saving users data in local storage
-and still working in to adding the time in the header.
+user are able to type current day activities and save them so when page refreshes activities still display on window colors still not fully functional.
